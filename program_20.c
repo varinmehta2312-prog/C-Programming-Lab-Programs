@@ -1,4 +1,4 @@
-// 20. Triangle area
+
 #include <stdio.h>
 int main() {
     float H, L;
