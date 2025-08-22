@@ -1,4 +1,4 @@
-// 8. Convert dollars into Rs (1$ = 48 Rs)
+
 #include <stdio.h>
 int main() {
     float dollars;
