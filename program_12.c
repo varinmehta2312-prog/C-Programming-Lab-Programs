@@ -1,4 +1,4 @@
-// 12. Convert kg into grams
+
 #include <stdio.h>
 int main() {
     float kg;
