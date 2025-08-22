@@ -1,4 +1,4 @@
-// 21. Net salary calculation
+
 #include <stdio.h>
 int main() {
     float gross, allowance, deduction, net;
