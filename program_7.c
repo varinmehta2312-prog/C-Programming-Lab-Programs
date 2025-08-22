@@ -1,4 +1,4 @@
-// 7. Convert minutes into hours
+
 #include <stdio.h>
 int main() {
     int minutes;
