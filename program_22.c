@@ -1,4 +1,4 @@
-// 22. Net sales calculation
+
 #include <stdio.h>
 int main() {
     float gross, discount, net;
