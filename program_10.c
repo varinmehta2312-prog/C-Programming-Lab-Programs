@@ -1,4 +1,4 @@
-// 10. Convert dollars into pounds (1$ = 48 Rs, 1 pound = 70 Rs)
+
 #include <stdio.h>
 int main() {
     float dollars, rs, pounds;
