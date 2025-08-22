@@ -1,4 +1,4 @@
-// 19. Circle area
+
 #include <stdio.h>
 int main() {
     float R;
