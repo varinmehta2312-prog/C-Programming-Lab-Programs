@@ -1,4 +1,4 @@
-// 16. Interest calculation (I = PRN/100)
+
 #include <stdio.h>
 int main() {
     float P, R, N;
