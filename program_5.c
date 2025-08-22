@@ -1,4 +1,4 @@
-// 5. Add, subtract, multiply, divide two numbers
+
 #include <stdio.h>
 int main() {
     float a, b;
