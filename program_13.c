@@ -1,4 +1,4 @@
-// 13. Convert bytes into KB, MB, GB
+
 #include <stdio.h>
 int main() {
     long bytes;
