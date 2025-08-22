@@ -1,4 +1,4 @@
-// 15. Fahrenheit to Celsius
+
 #include <stdio.h>
 int main() {
     float f;
