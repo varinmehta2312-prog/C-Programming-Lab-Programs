@@ -1,4 +1,4 @@
-// 18. Rectangle area and perimeter
+
 #include <stdio.h>
 int main() {
     float L, B;
