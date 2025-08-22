@@ -1,4 +1,4 @@
-// 4. Divide two numbers
+
 #include <stdio.h>
 int main() {
     float a, b, c;
